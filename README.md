@@ -1,5 +1,6 @@
 # Face_recognition_CSIC
 基于pycharm+MySQL+python+pyqt5设计和实现的人脸识别考勤管理系统
+
 一、项目概述
 基于pycharm+MySQL+python+pyqt5设计和实现的人脸识别考勤管理系统，系统主要
 功能包括：
@@ -7,6 +8,7 @@
 （2）UI可视化；
 （3）实时监控显示与数据存储；
 （4）人脸识别数据管理及查询。
+
 二、配置说明
 1、软件配置
 （1）Windows10 x64操作系统；
