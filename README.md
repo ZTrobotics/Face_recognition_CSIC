@@ -1,0 +1,2 @@
+# Face_recognition_CSIC
+基于pycharm+MySQL+python+pyqt5设计和实现的人脸识别考勤管理系统
